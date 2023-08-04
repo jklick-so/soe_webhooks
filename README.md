@@ -1,4 +1,4 @@
-# Stack Overflow Enterprise Search Logs
+# Stack Overflow Enterprise Webhook Report
 A Python script for Stack Overflow Enterprise that creates a CSV report of configured webhooks. You can see an [example](https://github.com/jklick-so/soe_webhooks/blob/main/Examples/webhooks.csv) of what the output looks like in the Examples directory.
 
 All data obtained via this script is handled locally on the device from which the script is run. The script does not transmit data to other parties, such as Stack Overflow. This script is entirely read only, with no ability to change/add content on your Stack Overflow instance.
